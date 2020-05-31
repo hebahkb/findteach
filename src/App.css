@@ -1,0 +1,17 @@
+body{
+
+	overflow: hidden;
+}
+@font-face {
+font-family: 'Tourmaline Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Tourmaline Bold'), url('Tourmaline-Bold.woff') format('woff');
+}
+
+h1 {
+
+	font-family: 'Tourmaline Bold';
+	font-weight: 200rem;
+	color: #2b2d02;
+}
